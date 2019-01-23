@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StatusLayout</string>
+    <string name="status_error">服务器异常,点击重试</string>
+    <string name="status_empty">暂时还没有数据</string>
+    <string name="status_net">网络异常,请检查你的网络</string>
+    <string name="status_loading">加载中</string>
+</resources>
