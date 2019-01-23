@@ -48,7 +48,7 @@ name | 说明
 ``app:layout_empty``| 加载内容为空布局
 ``app:layout_network``| 网络异常布局
 ``app:layout_loading``| 加载中布局
-
+### 自定义的根布局必须给一个id
 
 设置有两个接口
 
