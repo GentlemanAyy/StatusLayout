@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/GentlemanAyy/StatusLayout.svg)](https://jitpack.io/#GentlemanAyy/StatusLayout)
+
 ## 效果图
 ![image](https://note.youdao.com/yws/public/resource/3cfc723191eb4e7d662086c52cb04e36/xmlnote/6BCB650544F247B8885FF202E531B4C8/7712)
 
